@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/welcome"
+        android:textSize="@dimen/welcome_textsize"
         tools:layout_editor_absoluteX="167dp"
         tools:layout_editor_absoluteY="293dp" />
 
